@@ -52,6 +52,8 @@ Sou um desenvolvedor de software focado em Java, Spring Boot, e banco de dados. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+<br/>
+
 ---
 
 ## 📫 Como me encontrar?
@@ -68,5 +70,4 @@ Sou um desenvolvedor de software focado em Java, Spring Boot, e banco de dados. 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelKern7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>

@@ -1,8 +1,8 @@
 # 👋 Olá, sou Samuel Kern!
 
-  ### 💻 Software Developer
+  ### 💻 Software Engineer
 
-Sou um desenvolvedor de software focado em Java, Spring Boot, e banco de dados. Tenho experiência no desenvolvimento de sistemas, suporte técnico e otimização de processos. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. 
+Sou um Engenheiro de Software focado em Java, Spring Boot, e banco de dados. Tenho experiência no desenvolvimento de sistemas, suporte técnico e otimização de processos. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente. 
 
 📍 Taquari, Brasil  
 ✉️ Contato: samuelkern0@gmail.com  
